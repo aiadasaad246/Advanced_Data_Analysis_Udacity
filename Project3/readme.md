@@ -1,10 +1,10 @@
-# (Dataset Exploration Title)
-## by (your name here)
+# Students Performance 
+## by Aiad Asaad
 
 
 ## Dataset
 
-> Provide basic information about your dataset in this section. If you selected your own dataset, make sure you note the source of your data and summarize any data wrangling steps that you performed before you started your exploration.
+
 > This data set consists of the marks secured by the students in various subjects.
 > There are 1000 students information in the dataset with 8 features (gender, race/ethnicity, parental level of education, lunch, test preparation course, math score, reading score, writing score). only math score,reading score and writing score variables are numeric in nature, but the variables gender, race/ethnicity, parental level of education, lunch, and test preparation course are ordered factor variables with the following levels.
 gender: ["female","male"],
@@ -23,6 +23,7 @@ We just needed to convert some data to categoral.
 > There were some data with object type, so I converted them to categoral.
 > The mean of the males at math more than the female.
 > Most students have not completed the preperation test
+
 ## Key Insights for Presentation
 
 > I noticed that the pereformence of the students is related to parental education, gender and test preperation
